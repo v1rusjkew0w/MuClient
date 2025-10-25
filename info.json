@@ -2,7 +2,7 @@
   "slides": [
     {
       "image": "slide1.jpg",
-      "title": "Welcome to YourServer.com",
+      "title": "Welcome to YourServertest.com",
       "subtitle": "Everything you need to begin is here—download, install, and jump into the adventure in minutes."
     },
     {
@@ -22,3 +22,4 @@
     }
   ]
 }
+
